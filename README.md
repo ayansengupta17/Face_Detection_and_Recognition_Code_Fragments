@@ -7,3 +7,5 @@
 Eg: ./image_download.sh olympics
 This will save the olympics images to the specified directory.
 The images are saved in custom location in a seperate directory. Change line 14 to set it.
+
+3) Face recognition and detection fragments. Face detection is based on OpenCv cascade classifier and detection is done using a slightly modified version of openface.
