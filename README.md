@@ -1,4 +1,4 @@
-# MTP
+# Neural networks
 #Please do not use for malicious purpose or without permission.
 
 1) mlp.py -- Backpropagation code in Theano - Working with GPU and .theanorc in ~/
